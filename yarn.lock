@@ -2851,9 +2851,9 @@ devtools-config@^0.0.15:
   version "0.0.15"
   resolved "https://registry.yarnpkg.com/devtools-config/-/devtools-config-0.0.15.tgz#1fbe75be3f4dc1159603927fc1dfa64d1d9f1202"
 
-devtools-connection@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/devtools-connection/-/devtools-connection-0.0.7.tgz#1ec211018dc863079adb5422cf398f1201078c39"
+devtools-connection@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/devtools-connection/-/devtools-connection-0.0.8.tgz#f0f77fd7116334138f55a8ccc2b9f93bf1bbb9ed"
 
 devtools-contextmenu@^0.0.7:
   version "0.0.7"
@@ -2861,9 +2861,9 @@ devtools-contextmenu@^0.0.7:
   dependencies:
     devtools-modules "^0.0.32"
 
-devtools-launchpad@^0.0.112:
-  version "0.0.112"
-  resolved "https://registry.yarnpkg.com/devtools-launchpad/-/devtools-launchpad-0.0.112.tgz#e9c713c3eb2003f518e39f2ec8c08934a4c4dc0f"
+devtools-launchpad@0.0.113:
+  version "0.0.113"
+  resolved "https://registry.yarnpkg.com/devtools-launchpad/-/devtools-launchpad-0.0.113.tgz#60e5112ec8f0f3a6ed342e89149b79a2fca0e873"
   dependencies:
     amd-loader "0.0.8"
     autoprefixer "^7.1.2"
@@ -2887,7 +2887,7 @@ devtools-launchpad@^0.0.112:
     css-loader "^0.26.1"
     debug "^3.1.0"
     devtools-config "^0.0.15"
-    devtools-connection "^0.0.7"
+    devtools-connection "^0.0.8"
     devtools-contextmenu "^0.0.7"
     devtools-mc-assets "^0.0.4"
     devtools-modules "^0.0.33"
